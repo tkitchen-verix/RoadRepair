@@ -1,0 +1,6 @@
+The instructions are:
+
+1. Make all the tests pass.
+2. You can edit and add files in the RoadRepair project. 
+3. You should not edit existing tests in the RoadRepairTests project, but you can add more tests if you want.
+4. Please send the whole project back as a zip file, or post it to Github or similar if you like.
