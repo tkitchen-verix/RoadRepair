@@ -55,6 +55,5 @@ namespace RoadRepairTests
             var cost = plan.GetCostOfRepairs(roadsRepaired);
             Assert.IsTrue(cost <= availableMoney);
         }
-
     }
 }

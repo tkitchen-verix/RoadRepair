@@ -3,7 +3,7 @@
     /// <summary>
     /// Patching is where you repair parts of the road, but not the whole road.
     /// </summary>
-    public class Patching
+    public class Patching: IRepairType
     {
         public Patching(Road road)
         {

@@ -3,7 +3,7 @@
     /// <summary>
     /// Filling is where you fix only the individual potholes.
     /// </summary>
-    public class Filling
+    public class Filling : IRepairType
     {
         public Filling(Road road)
         {

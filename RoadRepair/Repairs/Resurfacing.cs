@@ -1,6 +1,6 @@
 ﻿namespace RoadRepair.Repairs
 {
-    public class Resurfacing
+    public class Resurfacing: IRepairType
     {
         public Resurfacing(Road road)
         {
